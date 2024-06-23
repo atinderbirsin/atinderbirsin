@@ -1,6 +1,6 @@
 ✨ Hi there ✨ 
  
- 🌱 I’m currently studying Nextjs + Reactjs, please have a look at my repositories.
+ 🌱 I’m currently studying & Working on Nextjs + Reactjs, please have a look at my repositories.
 
  📫 How to reach me: 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/atinderbir-singh-187b7a221)
