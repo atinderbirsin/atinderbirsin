@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Atinder%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Atinder%20&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
   <h1> Hey, nice to see you. :sunflower:</h1>
   
   <p></p>
@@ -36,7 +36,7 @@
    <a href="https://github.com/atinderbirsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atinderbirsin&theme=radical&hide_border=true" /></a>
    
   ### Profile Visit Count   
-https://visitor-badge.laobi.icu/badge?page_id=atinderbirsin
+https://visitor-badge.laobi.icu/badge?page_id=atinderbirsin.atinderbirsin
   <br> 
 </div>  
 <!--
