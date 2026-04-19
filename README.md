@@ -1,10 +1,10 @@
 <div align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jayram%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Atinder%20Git&fontAlign=75&fontAlignY=40&color=gradient" height="200"/>
   <h1> Hey, nice to see you. :sunflower:</h1>
   
   <p></p>
     
-  <p>Welcome to my page! </br> I am Jay, a passionate programmer & Software developer enthusiast.</p>
+  <p>Welcome to my page! </br> I am Atinder, a passionate programmer & Software developer enthusiast.</p>
   <br>
   <p>
   Priority - ✨ Quality, Features and Schedule ✨
@@ -31,12 +31,12 @@
 ---      
       
   ### My GitHub Stats
-  ![Jayram Bagal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayrambagal&show_icons=true&count_private=true&theme=radical&hide_border=true)  
+  ![Atinderbir singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atinderbirsin&show_icons=true&count_private=true&theme=radical&hide_border=true)  
    
-   <a href="https://github.com/jayrambagal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jayrambagal&theme=radical&hide_border=true" /></a>
+   <a href="https://github.com/atinderbirsin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=atinderbirsin&theme=radical&hide_border=true" /></a>
    
   ### Profile Visit Count   
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jayrambagal.jayrambagal)
+https://visitor-badge.laobi.icu/badge?page_id=atinderbirsin
   <br> 
 </div>  
 <!--
